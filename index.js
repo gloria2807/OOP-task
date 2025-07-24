@@ -1,5 +1,3 @@
-NAME: ENYI GLORIA
-
 class malePerson {
   constructor(name, age) {
     this.name = name;
